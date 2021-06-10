@@ -26,5 +26,6 @@
 - DQN
 
 ## torch GAN
-
+-
 ## torch vision advanced
+-
