@@ -6,5 +6,25 @@
 - torchaudio
 
 ## torch basic
-- SLP
+- Autograd
+- ANN
 - DNN
+
+## torch vision
+- CNN
+- ResNet
+- Auto Encoder
+
+## torch languige
+- RNN
+- Seq2Seq
+
+## torch advanced
+- FSGM
+- GAN 
+- cGAN
+- DQN
+
+## torch GAN
+
+## torch vision advanced
