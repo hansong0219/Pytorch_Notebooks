@@ -13,7 +13,7 @@
 
 ## torch vision
 - CNN
-- ResNet
+- ResNet34
 
 ## torch advanced
 - GAN 
